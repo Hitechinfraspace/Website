@@ -47,7 +47,7 @@ import Header from "./components/Header";
 import AIConsultant from "./components/AIConsultant";
 import ProjectsPage from "./components/ProjectsPage";
 import OurMission from './components/OurMission';
-import heroVideo from './assets/hero.MP4';
+import heroVideo from './assets/hero.mp4';
 
 const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
 const geminiModel = import.meta.env.VITE_GEMINI_MODEL || "gemini-3.6-flash";
